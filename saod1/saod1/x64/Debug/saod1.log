@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\andre\source\repos\saod1\saod1\Source.cpp(187,20): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  saod1.vcxproj -> C:\Users\andre\source\repos\saod1\x64\Debug\saod1.exe

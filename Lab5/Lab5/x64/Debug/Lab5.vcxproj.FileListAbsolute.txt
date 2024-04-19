@@ -1,0 +1,4 @@
+C:\Users\andre\source\repos\Lab5\Lab5\x64\Debug\Lab5.vcxproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Lab5\Lab5\x64\Debug\Lab5.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\Lab5\Lab5\x64\Debug\Lab5.Objects.resources
+C:\Users\andre\source\repos\Lab5\Lab5\x64\Debug\Lab5.vcxproj.GenerateResource.cache

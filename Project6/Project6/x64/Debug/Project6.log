@@ -1,0 +1,33 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (lab5.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  myfunc.cpp
+C:\Users\andre\source\repos\Project6\Project6\Header.h(2,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\andre\source\repos\Project6\Project6\Header.h(2,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\andre\source\repos\Project6\Project6\myfunc.cpp(11,7): error C2872: vector: неоднозначный символ
+C:\Users\andre\source\repos\Project6\Project6\Header.h(2,1): message : может быть "int vector"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\vector(438,1): message : или       "std::vector"
+C:\Users\andre\source\repos\Project6\Project6\myfunc.cpp(11,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\andre\source\repos\Project6\Project6\myfunc.cpp(11,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\andre\source\repos\Project6\Project6\myfunc.cpp(11,1): error C2086: int vector: переопределение
+C:\Users\andre\source\repos\Project6\Project6\Header.h(2): message : см. объявление "vector"
+C:\Users\andre\source\repos\Project6\Project6\myfunc.cpp(12,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\andre\source\repos\Project6\Project6\myfunc.cpp(12,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  main.cpp
+C:\Users\andre\source\repos\Project6\Project6\Header.h(2,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\andre\source\repos\Project6\Project6\Header.h(2,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\andre\source\repos\Project6\Project6\main.cpp(9,5): error C2731: main: функция не может быть перегружена
+C:\Users\andre\source\repos\Project6\Project6\main.cpp(9): message : см. объявление "main"
+C:\Users\andre\source\repos\Project6\Project6\main.cpp(13,11): error C2872: vector: неоднозначный символ
+C:\Users\andre\source\repos\Project6\Project6\Header.h(2,1): message : может быть "int vector"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\vector(438,1): message : или       "std::vector"
+C:\Users\andre\source\repos\Project6\Project6\main.cpp(13,12): error C2275: std::string: недопустимое использование этого типа в качестве выражения
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xstring(4920): message : см. объявление "std::string"
+C:\Users\andre\source\repos\Project6\Project6\main.cpp(13,20): error C2065: result: необъявленный идентификатор
+C:\Users\andre\source\repos\Project6\Project6\main.cpp(13,29): error C3861: splitString: идентификатор не найден
+C:\Users\andre\source\repos\Project6\Project6\main.cpp(14,26): error C2065: result: необъявленный идентификатор
+C:\Users\andre\source\repos\Project6\Project6\main.cpp(14,40): error C3078: размер массива должен быть указан в новых выражениях без инициализатора
+C:\Users\andre\source\repos\Project6\Project6\main.cpp(15,25): error C2065: result: необъявленный идентификатор
+C:\Users\andre\source\repos\Project6\Project6\main.cpp(16,25): error C2065: result: необъявленный идентификатор
+C:\Users\andre\source\repos\Project6\Project6\main.cpp(17,29): error C2065: result: необъявленный идентификатор
+C:\Users\andre\source\repos\Project6\Project6\main.cpp(17,42): error C2660: to_binary_string: функция не принимает 1 аргументов
+C:\Users\andre\source\repos\Project6\Project6\Header.h(4,5): message : см. объявление "to_binary_string"
+  Создание кода...

@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\Lab4\Lab4\x64\Debug\Lab4.vcxproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Lab4\Lab4\x64\Debug\Lab4.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\Lab4\Lab4\x64\Debug\Lab4.Circles.resources
+C:\Users\andre\source\repos\Lab4\Lab4\x64\Debug\Lab4.Ellipses.resources
+C:\Users\andre\source\repos\Lab4\Lab4\x64\Debug\Lab4.MenuForm.resources
+C:\Users\andre\source\repos\Lab4\Lab4\x64\Debug\Lab4.Quadrangles.resources
+C:\Users\andre\source\repos\Lab4\Lab4\x64\Debug\Lab4.Rectangles.resources
+C:\Users\andre\source\repos\Lab4\Lab4\x64\Debug\Lab4.Rhombs.resources
+C:\Users\andre\source\repos\Lab4\Lab4\x64\Debug\Lab4.Trapezoids.resources
+C:\Users\andre\source\repos\Lab4\Lab4\x64\Debug\Lab4.vcxproj.GenerateResource.cache

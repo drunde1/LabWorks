@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E3329E25-A3C7-4CC1-BB96-BC52B4FAC5A1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Agency</RootNamespace>
+    <AssemblyName>Agency</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgencyDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AgencyDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminAddChangeTour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminAddChangeTour.Designer.cs">
+      <DependentUpon>AdminAddChangeTour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminChangeUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminChangeUser.Designer.cs">
+      <DependentUpon>AdminChangeUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminManagment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminManagment.Designer.cs">
+      <DependentUpon>AdminManagment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AgencyForUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AgencyForUsers.Designer.cs">
+      <DependentUpon>AgencyForUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database.cs" />
+    <Compile Include="Forms\AgencyForAdmins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AgencyForAdmins.Designer.cs">
+      <DependentUpon>AgencyForAdmins.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MakingOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MakingOrder.Designer.cs">
+      <DependentUpon>MakingOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OrdersView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OrdersView.Designer.cs">
+      <DependentUpon>OrdersView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PersonalAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PersonalAccount.Designer.cs">
+      <DependentUpon>PersonalAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\OrderTourModel.cs" />
+    <Compile Include="Models\OrderViewModel.cs" />
+    <Compile Include="Models\PersonalAccountModelcs.cs" />
+    <Compile Include="Models\TouristModel.cs" />
+    <Compile Include="Models\TourModel.cs" />
+    <Compile Include="Models\UserModel.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Forms\SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ToursForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ToursForm.Designer.cs">
+      <DependentUpon>ToursForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\AdminAddChangeTour.resx">
+      <DependentUpon>AdminAddChangeTour.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminChangeUser.resx">
+      <DependentUpon>AdminChangeUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminManagment.resx">
+      <DependentUpon>AdminManagment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AgencyForUsers.resx">
+      <DependentUpon>AgencyForUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AgencyForAdmins.resx">
+      <DependentUpon>AgencyForAdmins.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MakingOrder.resx">
+      <DependentUpon>MakingOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OrdersView.resx">
+      <DependentUpon>OrdersView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PersonalAccount.resx">
+      <DependentUpon>PersonalAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ToursForm.resx">
+      <DependentUpon>ToursForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="AgencyDBDataSet.xsc">
+      <DependentUpon>AgencyDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AgencyDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AgencyDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AgencyDBDataSet.xss">
+      <DependentUpon>AgencyDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\Agency.Models.OrderTourModel.datasource" />
+    <None Include="Properties\DataSources\Agency.Models.OrderViewModel.datasource" />
+    <None Include="Properties\DataSources\Agency.Models.PersonalAccountModelcs.datasource" />
+    <None Include="Properties\DataSources\Agency.Models.TourModel.datasource" />
+    <None Include="Properties\DataSources\Agency.Models.UserModel.datasource" />
+    <None Include="Properties\DataSources\Database.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

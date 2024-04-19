@@ -1,0 +1,11 @@
+﻿  Objects.cpp
+C:\Users\andre\source\repos\Lab1\Lab1\Line.h(54,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\andre\source\repos\Lab1\Lab1\Line.h(55,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\andre\source\repos\Lab1\Lab1\Objects.cpp(11,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\andre\source\repos\Lab1\Lab1\Objects.cpp(38,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab1\Lab1\Objects.cpp(255,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab1\Lab1\Objects.cpp(264,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\andre\source\repos\Lab1\Lab1\Objects.cpp(265,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\andre\source\repos\Lab1\Lab1\Objects.cpp(303,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Objects.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab1.vcxproj -> C:\Users\andre\source\repos\Lab1\x64\Debug\Lab1.exe

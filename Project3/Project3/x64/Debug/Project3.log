@@ -1,0 +1,16 @@
+﻿  Source.cpp
+c:\users\andre\source\repos\project3\project3\source.cpp(125): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\andre\source\repos\project3\project3\source.cpp(126): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\andre\source\repos\project3\project3\source.cpp(131): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\andre\source\repos\project3\project3\source.cpp(195): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\andre\source\repos\project3\project3\source.cpp(196): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\andre\source\repos\project3\project3\source.cpp(201): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project3.vcxproj -> C:\Users\andre\source\repos\Project3\x64\Debug\Project3.exe

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KTPO4311.Shchukin.Lib/1.0.0": {
+        "runtime": {
+          "KTPO4311.Shchukin.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KTPO4311.Shchukin.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

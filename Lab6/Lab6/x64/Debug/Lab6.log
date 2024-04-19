@@ -1,0 +1,22 @@
+﻿  Objects.cpp
+C:\Users\andre\source\repos\Lab6\Lab6\TFigure.h(293,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Lab6\Lab6\TFigure.h(293,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Lab6\Lab6\TFigure.h(294,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Lab6\Lab6\TFigure.h(294,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Lab6\Lab6\TFigure.h(295,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Lab6\Lab6\TFigure.h(295,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Lab6\Lab6\TFigure.h(296,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Lab6\Lab6\TFigure.h(296,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Lab6\Lab6\Objects.cpp(9,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\andre\source\repos\Lab6\Lab6\Objects.cpp(26,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab6\Lab6\Objects.cpp(76,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab6\Lab6\Objects.cpp(133,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab6\Lab6\Objects.cpp(155,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab6\Lab6\Objects.cpp(177,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab6\Lab6\Objects.cpp(200,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab6\Lab6\Objects.cpp(240,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab6\Lab6\Objects.cpp(270,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab6\Lab6\Objects.cpp(319,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab6\Lab6\Objects.cpp(343,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Objects.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab6.vcxproj -> C:\Users\andre\source\repos\Lab6\x64\Debug\Lab6.exe

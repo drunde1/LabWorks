@@ -1,0 +1,10 @@
+#pragma once
+void proda();
+void Interface();
+int Prov();
+int entering();
+void consol();
+void file();
+void out();
+void main_Program();
+int main();

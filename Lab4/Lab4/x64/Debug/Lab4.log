@@ -1,0 +1,21 @@
+﻿  MenuForm.cpp
+C:\Users\andre\source\repos\Lab4\Lab4\TFigure.h(270,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Lab4\Lab4\TFigure.h(270,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Lab4\Lab4\TFigure.h(271,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Lab4\Lab4\TFigure.h(271,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Lab4\Lab4\TFigure.h(272,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Lab4\Lab4\TFigure.h(272,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Lab4\Lab4\TFigure.h(273,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Lab4\Lab4\TFigure.h(273,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Lab4\Lab4\MenuForm.cpp(9,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\andre\source\repos\Lab4\Lab4\MenuForm.cpp(67,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab4\Lab4\MenuForm.cpp(114,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab4\Lab4\MenuForm.cpp(163,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab4\Lab4\MenuForm.cpp(247,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab4\Lab4\MenuForm.cpp(273,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab4\Lab4\MenuForm.cpp(299,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab4\Lab4\MenuForm.cpp(415,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab4\Lab4\MenuForm.cpp(592,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Lab4\Lab4\MenuForm.cpp(879,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MenuForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab4.vcxproj -> C:\Users\andre\source\repos\Lab4\x64\Debug\Lab4.exe

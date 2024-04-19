@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\andre\source\repos\saod5\saod5\Source.cpp(290,2): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\andre\source\repos\saod5\saod5\Source.cpp(74): warning C4715: search: значение возвращается не при всех путях выполнения
+C:\Users\andre\source\repos\saod5\saod5\Source.cpp(152): warning C4715: pop: значение возвращается не при всех путях выполнения
+  saod5.vcxproj -> C:\Users\andre\source\repos\saod5\x64\Debug\saod5.exe

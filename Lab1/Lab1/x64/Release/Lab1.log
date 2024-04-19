@@ -1,0 +1,5 @@
+﻿  Objects.cpp
+C:\Users\andre\source\repos\Lab1\Lab1\Objects.cpp(6,19): error C2337: STAThreadAttibute: атрибут не найден
+C:\Users\andre\source\repos\Lab1\Lab1\Objects.cpp(8,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\andre\source\repos\saod2\saod2\Source.cpp(69,24): warning C4101: comd: неиспользованная локальная переменная
+C:\Users\andre\source\repos\saod2\saod2\Source.cpp(113,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  saod2.vcxproj -> C:\Users\andre\source\repos\saod2\x64\Debug\saod2.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\andre\source\repos\saod4\saod4\Source.cpp(139,21): warning C4101: comd: неиспользованная локальная переменная
+  saod4.vcxproj -> C:\Users\andre\source\repos\saod4\x64\Debug\saod4.exe

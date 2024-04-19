@@ -1,0 +1,31 @@
+﻿  MenuForm.cpp
+C:\Users\andre\source\repos\Laba2\Laba2\Line.h(95,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\andre\source\repos\Laba2\Laba2\Line.h(96,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\andre\source\repos\Laba2\Laba2\Triangle.h(60,7): warning C4101: X: неиспользованная локальная переменная
+C:\Users\andre\source\repos\Laba2\Laba2\Triangle.h(136,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\andre\source\repos\Laba2\Laba2\Triangle.h(137,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\andre\source\repos\Laba2\Laba2\Triangle.h(138,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\andre\source\repos\Laba2\Laba2\Triangle.h(139,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(9,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(57,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(277,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(278,15): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(279,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(305,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(541,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(547,22): warning C4101: R: неиспользованная локальная переменная
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(547,31): warning C4101: y: неиспользованная локальная переменная
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(547,28): warning C4101: x: неиспользованная локальная переменная
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(547,25): warning C4101: r: неиспользованная локальная переменная
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(584,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(638,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(639,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(642,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(643,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(636,18): warning C4101: y2: неиспользованная локальная переменная
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(636,26): warning C4101: y3: неиспользованная локальная переменная
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(636,22): warning C4101: x3: неиспользованная локальная переменная
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(636,10): warning C4101: x2: неиспользованная локальная переменная
+C:\Users\andre\source\repos\Laba2\Laba2\MenuForm.cpp(736,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MenuForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Laba2.vcxproj -> C:\Users\andre\source\repos\Laba2\x64\Debug\Laba2.exe

@@ -1,0 +1,4 @@
+﻿  myfunc.cpp
+C:\Users\andre\source\repos\Project4\Project4\myfunc.cpp(88,24): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\andre\source\repos\Project4\Project4\myfunc.cpp(114,24): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Project4.vcxproj -> C:\Users\andre\source\repos\Project4\x64\Debug\Project4.exe

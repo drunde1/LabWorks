@@ -1,0 +1,13 @@
+C:\Users\andre\source\repos\Agency\Agency\bin\Debug\Agency.exe.config
+C:\Users\andre\source\repos\Agency\Agency\bin\Debug\Agency.exe
+C:\Users\andre\source\repos\Agency\Agency\bin\Debug\Agency.pdb
+C:\Users\andre\source\repos\Agency\Agency\obj\Debug\AgencyApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\Agency\Agency\obj\Debug\Agency.Agency.resources
+C:\Users\andre\source\repos\Agency\Agency\obj\Debug\Agency.LogIn.resources
+C:\Users\andre\source\repos\Agency\Agency\obj\Debug\Agency.Properties.Resources.resources
+C:\Users\andre\source\repos\Agency\Agency\obj\Debug\Agency.SignUp.resources
+C:\Users\andre\source\repos\Agency\Agency\obj\Debug\Agency.ToursForm.resources
+C:\Users\andre\source\repos\Agency\Agency\obj\Debug\AgencyApp.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Agency\Agency\obj\Debug\AgencyApp.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Agency\Agency\obj\Debug\Agency.exe
+C:\Users\andre\source\repos\Agency\Agency\obj\Debug\Agency.pdb

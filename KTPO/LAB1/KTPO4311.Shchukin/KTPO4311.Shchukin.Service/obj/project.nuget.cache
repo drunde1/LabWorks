@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "6rZI7rigXymoi/OWGZTxtuOLawZ0fYYcn7OFv7r/FKWCsndZLHoFr0t9rucWsP6ZqMVCJsMvVmayZCjMFqdRJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\source\\repos\\KTPO\\LAB1\\KTPO4311.Shchukin\\KTPO4311.Shchukin.Service\\KTPO4311.Shchukin.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\castle.windsor\\6.0.0\\castle.windsor.6.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0\\microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

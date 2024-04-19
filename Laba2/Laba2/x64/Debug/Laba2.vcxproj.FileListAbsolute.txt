@@ -1,0 +1,6 @@
+C:\Users\andre\source\repos\Laba2\Laba2\x64\Debug\Laba2.vcxproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Laba2\Laba2\x64\Debug\Laba2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\Laba2\Laba2\x64\Debug\Laba2.MenuForm.resources
+C:\Users\andre\source\repos\Laba2\Laba2\x64\Debug\Laba2.Objects.resources
+C:\Users\andre\source\repos\Laba2\Laba2\x64\Debug\Laba2.vcxproj.GenerateResource.cache
+C:\Users\andre\source\repos\Laba2\Laba2\x64\Debug\Laba2.Objects2.resources

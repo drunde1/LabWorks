@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "69e53f8d-1ca2-4c36-a0b4-6ec24fdc5b97": {
+      "ProjectGuid": "69e53f8d-1ca2-4c36-a0b4-6ec24fdc5b97",
+      "DisplayName": "KTPO4311.Shchukin.UnitTest",
+      "ColorIndex": 0
+    },
+    "80db5a06-e662-4a4c-aee1-d129c8ea6aca": {
+      "ProjectGuid": "80db5a06-e662-4a4c-aee1-d129c8ea6aca",
+      "DisplayName": "KTPO4311.Shchukin.Lib",
+      "ColorIndex": 1
+    },
+    "c843370d-50d2-4833-8d31-fb1f7c2f26f7": {
+      "ProjectGuid": "c843370d-50d2-4833-8d31-fb1f7c2f26f7",
+      "DisplayName": "KTPO4311.Shchukin.Lib",
+      "ColorIndex": 2
+    },
+    "77b85522-8149-4ee7-831e-2287bbc211e9": {
+      "ProjectGuid": "77b85522-8149-4ee7-831e-2287bbc211e9",
+      "DisplayName": "KTPO4311.Shchukin.Service",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
