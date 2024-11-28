@@ -1,6 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Kursach.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  MyFunc.cpp
-C:\Users\andre\source\repos\Kursach\Kursach\MyFunc.cpp(87,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-  main.cpp
-  Создание кода...
-  Kursach.vcxproj -> C:\Users\andre\source\repos\Kursach\x64\Debug\Organization.exe

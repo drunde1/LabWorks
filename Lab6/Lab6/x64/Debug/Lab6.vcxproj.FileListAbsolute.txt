@@ -2,3 +2,6 @@ C:\Users\andre\source\repos\Lab6\Lab6\x64\Debug\Lab6.vcxproj.AssemblyReference.c
 C:\Users\andre\source\repos\Lab6\Lab6\x64\Debug\Lab6.vcxproj.SuggestedBindingRedirects.cache
 C:\Users\andre\source\repos\Lab6\Lab6\x64\Debug\Lab6.Objects.resources
 C:\Users\andre\source\repos\Lab6\Lab6\x64\Debug\Lab6.vcxproj.GenerateResource.cache
+C:\Users\andre\Desktop\уч\VSStudioLabs\Lab6\Lab6\x64\Debug\Lab6.vcxproj.AssemblyReference.cache
+C:\Users\andre\Desktop\уч\VSStudioLabs\Lab6\Lab6\x64\Debug\Lab6.Objects.resources
+C:\Users\andre\Desktop\уч\VSStudioLabs\Lab6\Lab6\x64\Debug\Lab6.vcxproj.GenerateResource.cache
